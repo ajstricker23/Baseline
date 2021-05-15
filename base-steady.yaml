@@ -80,7 +80,7 @@ parameters:
   initial previous flux: [1.0E10,1.0E10]
   initial dnp concentration: 0.0
   initial recirc dnp concentration: 0.0
-  solve type: transient
+  solve type: steady_state
   wallTemp: 920
   inletTemp: 920
   uniform flow velocity: 21.45
