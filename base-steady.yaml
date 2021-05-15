@@ -97,4 +97,4 @@ parameters:
   relaxTolELOT: 0
   relaxTolMGLOQD: 0
   resetThreshold: 1E100
-  outputDirectory: elot-0-mgloqd-0-theta-1E100/
+  outputDirectory: baseline steady/
